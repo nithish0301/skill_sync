@@ -1,4 +1,5 @@
-package com.skillsync.authservice.model;
+package com.skillsync.authservice.model.dto;
+import com.skillsync.authservice.model.Role;
 import lombok.*;
 
 @Data
